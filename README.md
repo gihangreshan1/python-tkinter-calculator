@@ -25,7 +25,8 @@ A simple and user-friendly calculator application built with Python's Tkinter li
 
 <img width="340" height="527" alt="image" src="https://github.com/user-attachments/assets/da99ece8-88a6-4b72-baf9-f3678c83e608" />
 
-
+## UI Design
+Check out the [Figma Design]([https://docs.github.com](https://www.figma.com/design/WQAbFufn4u6JnmoGoMsi9W/Basic-Calculator?node-id=0-1&t=X14judK9MKOL7SDE-1).
 
 
 ## Installation
