@@ -17,6 +17,17 @@ A simple and user-friendly calculator application built with Python's Tkinter li
 - Python 3.x
 - Tkinter (usually included with Python)
 
+## Screenshots
+
+<img width="346" height="535" alt="image" src="https://github.com/user-attachments/assets/34872e6a-0641-4a8f-b9c2-c5e58e7dae4e" />
+
+<img width="342" height="530" alt="image" src="https://github.com/user-attachments/assets/867db917-8a02-4459-bfdc-90ebecd8d886" />
+
+<img width="340" height="527" alt="image" src="https://github.com/user-attachments/assets/da99ece8-88a6-4b72-baf9-f3678c83e608" />
+
+
+
+
 ## Installation
 
 1. Clone the repository:
